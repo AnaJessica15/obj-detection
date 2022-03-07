@@ -1,0 +1,7 @@
+Video documentaries of various ISRO missions and programs are available. 
+To categorize the all-video programs, generation & verification of huge amount of metadata generation need to be done. 
+With current Deep learning methods-based development in field of Computer vision and Natural Language Processing this task of video metadata generation is now days automated. 
+
+
+Given Video programs, process for objects, text, speech recognition, Named Entity recognition etc. 
+to classify the videos in different genres like launch programs, interviews, educational programs, outdoor shots, public shots, traffic etc.
